@@ -5,6 +5,9 @@ A simple [Brackets](http://brackets.io) extension for searching the [php.net](ht
 ## Installation
 
 * Select **File > Extension Manager...** (or click the "brick" icon in the toolbar)
+* Search for "PHP.net Doc"
+* Click **Install**
+* or:
 * Click **Install from URL...**
 * Enter the url of this repo
   * https://github.com/DannyMoerkerke/brackets-php-doc
